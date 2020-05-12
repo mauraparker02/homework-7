@@ -1,3 +1,7 @@
 .bg-light {
     background-color:pink;
 }
+
+.col-sm {
+    object-fit: scale-down;
+}
